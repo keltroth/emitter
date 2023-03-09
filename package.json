@@ -1,0 +1,12 @@
+{
+  "name": "@keltroth/emitter",
+  "type": "module",
+  "version": "1.0.7",
+  "description": "Emitter helper",
+  "author": "Django Janny",
+  "license": "MIT",
+  "files": [
+    "emitter.js"
+  ],
+  "main": "emitter.js"
+}
